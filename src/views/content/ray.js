@@ -44,8 +44,7 @@ export default function Rachael(){
            <div className="w-full 2xl:w-1/2 xl:w-1/2 lg:w-1/2 md:w-1/2 leading-loose space-y-4">
            <p className="font-semibold text-2xl">EXPERTISE</p>
             <p>Ms. Waweru is an Advocate of the High Court of Kenya. She was previously engaged as an Associate 
-                 in a top tier firm in Mombasa for five years. After leaving the firm, she subsequently became one of the founding partners of Katama 
-                 Waweru Advocates. </p>
+                 in a top tier firm in Mombasa for five years. After leaving the firm, she subsequently became one of the founding partners ofScottish Legal Aid Board. </p>
              <p>She is also a Qualified Mediator, having being trained and Certified by the Mediation Institute of East Africa and is currently undergoing training as a Court Annexed Mediator.</p> 
              <p>She is currently the principal contact person in charge of the management and care of instructions 
           received from an array of private high net worth individuals and corporate clients who have matters which touch on  
