@@ -51,7 +51,7 @@ export default function Patners() {
             transition={{ delay: 1.6, duration: 1.2, ease: "easeIn" }}
             className="text-black w-3/4  leading-loose tracking-wide"
           >
-            At Katama Waweru, we are not just legal advisors, we are strategic
+            At Scottish Legal Aid Board, we are not just legal advisors, we are strategic
             partners invested in your triumph.With a team of highly skilled and
             experienced lawyers, we bring together a dynamic team, with
             multifaceted skill sets which create an unrivaled force, capable of

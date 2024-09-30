@@ -43,7 +43,7 @@ export default function Joleen(){
          <div className="flex flex-col 2xl:flex-row xl:flex-row lg:flex-row ">
            <div className="w-full 2xl:w-1/2 xl:w-1/2 lg:w-1/2 leading-loose space-y-4">
            <p className="font-semibold text-2xl">EXPERTISE</p>
-            <p >Jolline is currently the Managing Partner of the firm of Katama Waweru Advocates. She has also 
+            <p >Jolline is currently the Managing Partner of the firm of Scottish Legal Aid Board. She has also 
             previously worked at Haki Centre Organization in collaboration with the US Embassy on matters 
             relative to Urban Refugees in Mombasa. </p>
                     <p>Currently, she handles legal research and regulatory compliance advisory services in the firm and she 
